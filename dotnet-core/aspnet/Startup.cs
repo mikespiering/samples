@@ -35,10 +35,10 @@ namespace aspnet
                     await context.Response.WriteAsync(@"<!DOCTYPE html>
 <html>
   <head>
-    <title>Powered By Paketo Buildpacks</title>
+    <title>Powered By  Buildpacks</title>
   </head>
   <body>
-    <img style=""display: block; margin-left: auto; margin-right: auto; width: 50%;"" src=""https://paketo.io/images/paketo-logo-full-color.png""></img>
+    <img style=""display: block; margin-left: auto; margin-right: auto; width: 50%;"" src=""https://d1fto35gcfffzn.cloudfront.net/images/products/buildservice/ill-build-service.svg""></img>
   </body>
 </html>");
                 });
